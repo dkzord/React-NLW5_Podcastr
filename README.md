@@ -1,8 +1,8 @@
 # NextLevelWeek5 - PodCastr
 
-<h1>
+<!-- <h1>
     <img src="">
-</h1>
+</h1> -->
 
 # Indice
 
@@ -16,7 +16,7 @@
 
 Projeto criado para estudo de ReactJS. Desenvolvido no curso gratuíto **NextLevelWeek 5 da RocketSeat** oferecido pela plataforma **RocketSeat**.
 
-🛑 Aviso: Esse projeto foi realizado apenas para fins de estudo!
+🛑 Aviso: Esse projeto foi realizado apenas para fins de estudo!!!
 
 ---
 
