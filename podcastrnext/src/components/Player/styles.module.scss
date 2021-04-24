@@ -119,7 +119,7 @@
             filter: brightness(0.7)
         }
 
-        &.playButton {
+        &:hover:not(:disabled) {
             width: 4rem;
             height: 4rem;
             border-radius: 1rem;
